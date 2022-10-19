@@ -1,0 +1,12 @@
+.navbar-brand img {
+  width: 32px;
+  height: auto;
+}
+
+.navbar-light .navbar-toggler {
+  border-color: transparent;
+}
+
+main .container {
+  padding-top: 60px;
+}
